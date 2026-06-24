@@ -10,51 +10,34 @@
 
 ### Software Developer — Shiavnski Technologies
 
-📅 Apr 2026 – Present · Full-time
+📅 Jul 2024 – Present · Full-time
 
 **Key Contributions:**
 
-- Developed and maintained enterprise-grade backend applications using **Java, Spring Boot, and Microservices** architecture.
-- Resolved high-priority production issues through root cause analysis, improving system stability and reliability.
-- Designed and implemented scalable REST APIs supporting thousands of daily transactions.
-- Collaborated with product owners, QA engineers, and cross-functional teams to deliver business-critical features.
-- Participated in code reviews, ensuring adherence to coding standards, design principles, and best practices.
+- Engineered and maintained cloud-native, enterprise-grade backend platforms using **Java (8+), Spring Boot, and Microservices** architecture.
+- Mentored junior developers and influenced architectural decisions, ensuring adherence to design principles and enterprise reference architectures.
+- Designed scalable data-driven APIs and real-time processing pipelines leveraging **Apache Kafka**, supporting high-volume BFSI and logistics workflows.
+- Collaborated with product, data science, and business stakeholders to design end-to-end scalable data and AI integration platforms.
+- Participated in establishing governance standards, code reviews, and CI/CD pipeline optimizations.
 - Optimized application performance through efficient database queries, caching strategies, and concurrent processing techniques.
-- Conducted technical research and proof-of-concepts to evaluate and implement suitable solutions for complex requirements.
+- Conducted technical research to evaluate and integrate **GenAI solutions** (NLP, RAG) for intelligent enterprise automation.
 
-**Technologies:** Java, Spring Boot, Microservices, Apache Camel, Kafka, PostgreSQL, Redis, REST APIs, Agile/Scrum
+**Technologies:** Java, Spring Boot, Microservices, Apache Kafka, Apache Camel, PostgreSQL, Redis, AWS/Azure, CI/CD, Agile/Scrum
 
 ---
 
 ## Featured Projects
 
-### 1. Portals — Servicing Domain
+### 1. OceanTrack — Logistics Domain
 
-📅 Sep 2024 – Mar 2026 · Shiavnski Technologies
-
-- Analyzed client requirements, Jira stories, and change requests to design and implement enhancements across financial claim-processing workflows.
-- Owned critical backend modules and independently handled feature development, production support, bug fixes, and root-cause analysis.
-- Developed and maintained REST APIs using Java and Spring Boot for claim submission, validation, approval, and reporting processes.
-- Collaborated closely with business analysts, QA teams, and stakeholders to translate complex financial rules into reliable backend implementations.
-- Optimized database queries and business logic, improving application performance and reducing processing time for high-volume claim transactions.
-- Integrated with internal and external services through REST-based communication while ensuring data consistency and secure information exchange.
-- Leveraged AI-assisted development tools, technical documentation, and proof-of-concept research to accelerate issue resolution and feature delivery.
-- Participated in release planning, code reviews, production deployments, and post-release monitoring to ensure successful delivery of client-driven requirements.
-
-**Tech Stack:** Java 8/11, Spring Boot, Hibernate, PostgreSQL, Azure Blob Storage, Azure Web App, Swagger
-
----
-
-### 2. OceanTrack — Logistics Domain
-
-📅 Dec 2025 – Mar 2026 · Shiavnski Technologies
+📅 Jul 2025 – Present · Shiavnski Technologies
 
 - Developed and maintained **15+ REST APIs** supporting shipment tracking, logistics operations, and business-critical workflows.
-- Worked extensively on a monolithic architecture, delivering **8+ core features** while ensuring system stability.
-- Utilized PostgreSQL for efficient data management, handling large datasets with optimized indexing strategies.
+- Worked extensively on a monolithic architecture, migrating and delivering **8+ core features** while ensuring system stability.
+- Utilized PostgreSQL for efficient data management, handling large datasets with optimized indexing strategies and scalable architectures.
 - Improved API response times from **400ms to 200ms** using Java Concurrency utilities and performance optimization techniques.
-- Built secure RESTful APIs supporting shipment processing and logistics workflows.
-- Applied design patterns including Builder Pattern to improve maintainability and reduce object creation complexity.
+- Built secure RESTful APIs supporting shipment processing and scalable data pipelines.
+- Applied design patterns including Builder Pattern to improve maintainability and influence architectural decisions.
 - Optimized database queries and caching mechanisms to improve application performance and reduce latency.
 - Developed reusable utility components for logging, validation, and common business operations across the application.
 
@@ -62,18 +45,34 @@
 
 ---
 
-### 3. HelpDesk Intelligence Engine — Customer Support System
+### 2. Claim-It — Finance Domain (BFSI)
 
-📅 Sep 2024 – Mar 2026 · Shiavnski Technologies
+📅 Aug 2024 – Aug 2025 · Shiavnski Technologies
 
-- Developed backend microservices and webhook integrations using Java and Spring Boot to automate customer support workflows.
-- Built AI-powered search and knowledge retrieval modules using Python, pgvector, and Sentence-Transformers.
-- Designed fault-tolerant ingestion workflows for processing customer tickets and knowledge-base documents.
-- Implemented embedding generation, vector search, and Retrieval-Augmented Generation (RAG) pipelines for contextual knowledge retrieval.
-- Integrated structured LLM outputs to transform unstructured content into actionable business data.
+- Developed and maintained 4 core microservices using Java and Spring Boot for financial claim processing workflows.
+- Designed and implemented RESTful APIs for claim submission, validation, approval, and reporting services.
+- Automated complex claim verification and business rules, streamlining operations within the large enterprise BFSI ecosystem.
+- Integrated multiple internal and external services using REST APIs and event-driven communication (Kafka).
+- Optimized PostgreSQL queries and caching strategies, improving application performance and reducing latency for high-volume transactions.
+- Investigated and resolved production issues through root-cause analysis, ensuring application reliability.
+- Collaborated with business analysts, QA teams, and stakeholders to deliver client-driven enhancements in an Agile environment.
+
+**Tech Stack:** Java 8/11, Spring Boot, Hibernate, PostgreSQL, Apache Kafka, Azure Blob Storage, Azure Web App, Swagger
+
+---
+
+## Personal Projects
+
+### 3. HelpDesk Intelligence — Enterprise AI Copilot
+
+- Led the development of GenAI initiatives, including an intelligent automation copilot to streamline customer support and internal workflows.
+- Built AI-powered search and knowledge retrieval modules leveraging NLP, pgvector, and transformer models.
+- Designed end-to-end scalable data ingestion pipelines for processing customer tickets and knowledge-base content.
+- Implemented advanced Retrieval-Augmented Generation (RAG) pipelines and vector database integrations for contextual knowledge retrieval.
+- Integrated structured LLM outputs to transform unstructured enterprise data into actionable insights for cross-functional teams.
 - Built monitoring dashboards for tracking tickets, workflow execution, and AI-assisted support insights.
 
-**Tech Stack:** Java, Spring Boot, Python, FastAPI, PostgreSQL, Pgvector, RAG, LLM, React, TailwindCSS, Webhooks
+**Tech Stack:** Java, Spring Boot, Python, FastAPI, PostgreSQL, Pgvector, GenAI, RAG, NLP, React, TailwindCSS, Webhooks, CI/CD
 
 ---
 
@@ -81,21 +80,21 @@
 
 | Category | Skills |
 |---|---|
-| **Backend** | Java 8–25, Spring Boot, Apache Kafka, Apache Camel, REST APIs, System Design, Microservices, Monolithic |
-| **Architecture** | Kafka, Event-Driven, Redis Caching, Scalability, Concurrency, Design Patterns |
-| **Databases** | PostgreSQL, MySQL, Hibernate/JPA, Redis |
-| **Tools** | Docker, Git, Postman, JUnit, Mockito, ELK, Grafana, DBeaver |
-| **Cloud & DevOps** | Azure, Blob Storage, Key Vault, CI/CD |
-| **AI** | LLM, RAG, Prompt Engineering |
+| **Backend & Architecture** | Java (8+), Spring Boot, Microservices, Enterprise Architecture, Event-Driven/Streaming Architectures |
+| **Big Data Ecosystems** | Apache Kafka, Apache Spark, Hadoop, Data Lakes, Real-time Processing |
+| **Cloud-Native & DevOps**| AWS, Azure, Kubernetes, Docker, CI/CD, Terraform, GitOps |
+| **Databases** | PostgreSQL, MySQL, Hibernate/JPA, Redis, Vector Databases (Pgvector) |
+| **AI/ML & GenAI** | NLP, Intelligent Automation, Copilots, RAG-based systems, LLM Integrations, Prompt Engineering |
+| **Web & Others** | React.js (Bonus), JUnit, Mockito, ELK, Grafana, DBeaver |
 
 ---
 
 ## Key Achievements
 
-- Successfully delivered backend solutions for **Finance, Logistics, and Customer Support** domains.
-- Led production issue investigations and root-cause analysis.
-- Designed scalable APIs supporting **thousands of daily transactions**.
-- Mentored junior developers through code reviews and technical guidance.
+- Successfully designed and delivered scalable backend platforms for **BFSI, Logistics, and Enterprise Support** ecosystems.
+- Led GenAI and Big Data integration initiatives, successfully developing RAG-based intelligent automation systems.
+- Defined reference architectures and influenced architectural decisions for high-impact projects.
+- Mentored junior developers, established code governance standards, and promoted cross-functional collaboration.
 
 ---
 
