@@ -6,7 +6,7 @@ From a DevOps perspective, I have used Git, Docker, and Jenkins. For code qualit
 
 On the cloud side, I have worked with AWS services like S3, Lambda, and CloudWatch for logging. On Azure, I have used several services, including Azure Container Apps, Logic Apps, Application Insights, Key Vault, Log Analytics Workspace, Action Groups, and others.
 
-In my recent project, a Logistics tracking platform, I developed and maintained multiple REST APIs for shipment tracking and logistics workflows. I worked extensively with Java, Spring Boot, PostgreSQL, Azure services, and performance optimization techniques. one of my key contributions was reducing API response times by 50% (from 400 milliseconds to 200 milliseconds) using Java concurrency and query optimization techniques.
+In my recent project, a Logistics tracking platform, I developed and maintained multiple REST APIs for shipment tracking and logistics workflows. I worked extensively with Java, Spring Boot, PostgreSQL, Azure services, and performance optimization techniques. One of my key contributions was reducing API response times by 50% (from 400 milliseconds to 200 milliseconds) using Java concurrency and query optimization techniques.
 
 Before that, I worked on a financial claims processing platform where I developed and maintained microservices responsible for claim submission, validation, approval, and reporting workflows. I also worked on service integrations, business rule automation, production support, and performance optimization.
 

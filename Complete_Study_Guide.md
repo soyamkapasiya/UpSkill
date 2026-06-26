@@ -4,7 +4,7 @@
 
 **Java Backend Developer | Spring Boot | Microservices | Kafka | 2+ Years Experience**
 
-📧 [Your Email] · 📞 [Your Phone] · [LinkedIn]([Your LinkedIn Profile]) · [GitHub]([Your GitHub Profile])
+📧 [Your Email] · 📞 [Your Phone] · [LinkedIn](https://linkedin.com) · [GitHub](https://github.com)
 
 ---
 
