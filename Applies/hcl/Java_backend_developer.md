@@ -1,6 +1,6 @@
 # HCL Java Backend Developer Interview Preparation Guide
 
-Welcome to the ultimate preparation companion tailored for **Soyam Kapasiya** for the **Java Backend Developer (Java, Spring Boot)** role at **HCL**.
+Welcome to the ultimate preparation companion tailored for the **Java Backend Developer (Java, Spring Boot)** role at **HCL**.
 
 This document consolidates:
 1. **Candidate Profile Integration**: Alignment of your experience with HCL's expectations, specifically highlighting your potential in GenAI and Big Data ecosystems.
@@ -11,7 +11,7 @@ This document consolidates:
 ---
 
 ## 👨‍💻 Candidate Profile Summary
-* **Name**: Soyam Kapasiya
+* **Name**: [Your Name]
 * **Role**: Java Backend Developer
 * **Core Skills**: Java (8+), Spring Boot, Microservices, Enterprise Architecture.
 * **Target Role**: HCL Java Backend Developer (102386)

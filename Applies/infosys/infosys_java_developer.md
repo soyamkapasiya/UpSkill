@@ -1,9 +1,9 @@
 # Infosys Java Developer Interview Preparation Guide
 
-Welcome to the ultimate preparation companion tailored for **Soyam Kapasiya** for the **Java Developer** role at **Infosys**. 
+Welcome to the ultimate preparation companion tailored for the **Java Developer** role at **Infosys**. 
 
 This document consolidates:
-1. **Candidate Profile Integration**: Alignment of Soyam's Shiavnski Technologies experience (Finance, Logistics, AI workflows) with Infosys expectations.
+1. **Candidate Profile Integration**: Alignment of your experience (Finance, Logistics, AI workflows) with Infosys expectations.
 2. **Structured 4-Week Interview Roadmap**: Detailed day-by-day core study focus area.
 3. **Actionable Practice Map**: Specific coding drills and system design tasks to build.
 4. **Comprehensive Q&A Database**: In-depth, production-oriented questions and expert answers based on your actual tech stack, enhanced with **Mermaid Diagrams**.
@@ -11,7 +11,7 @@ This document consolidates:
 ---
 
 ## 👨‍💻 Candidate Profile Summary
-* **Name**: Soyam Kapasiya
+* **Name**: [Your Name]
 * **Role**: Java Backend Developer (2+ Years Experience)
 * **Core Skills**: Java (8/11/17+), Spring Boot, Microservices, Apache Kafka, Apache Camel, PostgreSQL, Redis, REST APIs, Docker, Azure, Git, JUnit, Mockito, Agile/Scrum.
 * **Target Role**: Infosys Java Developer (Primary skills: Java, Core Java, Spring Boot, Microservices, API Management, Kafka, Docker/Kubernetes, Relational & NoSQL, Cloud).
@@ -1103,10 +1103,10 @@ graph LR
 
       @Test
       public void testGetUser() throws Exception {
-          Mockito.when(userService.getUserById(1L)).thenReturn(new User(1L, "Soyam"));
+          Mockito.when(userService.getUserById(1L)).thenReturn(new User(1L, "John"));
           mockMvc.perform(get("/users/1"))
                  .andExpect(status().isOk())
-                 .andExpect(jsonPath("$.name").value("Soyam"));
+                 .andExpect(jsonPath("$.name").value("John"));
       }
   }
   ```

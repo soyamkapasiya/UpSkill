@@ -1,16 +1,16 @@
 # Master Java Backend Developer Interview Study Guide
 
-# Soyam Kapasiya
+# [Your Name]
 
 **Java Backend Developer | Spring Boot | Microservices | Kafka | 2+ Years Experience**
 
-📧 soyamp323@gmail.com · 📞 +91 6260461494 · [LinkedIn](https://linkedin.com/in/soyamkapasiyag1) · [GitHub](https://github.com/soyamkapasiya)
+📧 [Your Email] · 📞 [Your Phone] · [LinkedIn]([Your LinkedIn Profile]) · [GitHub]([Your GitHub Profile])
 
 ---
 
 ## Professional Experience
 
-### Software Developer — Shiavnski Technologies
+### Software Developer — [Company Name]
 
 📅 Apr 2026 – Present · Full-time
 
@@ -32,7 +32,7 @@
 
 ### 1. Portals — Servicing Domain
 
-📅 Sep 2024 – Mar 2026 · Shiavnski Technologies
+📅 Sep 2024 – Mar 2026 · [Company Name]
 
 - Analyzed client requirements, Jira stories, and change requests to design and implement enhancements across financial claim-processing workflows.
 - Owned critical backend modules and independently handled feature development, production support, bug fixes, and root-cause analysis.
@@ -47,9 +47,9 @@
 
 ---
 
-### 2. OceanTrack — Logistics Domain
+## 2. Logistics Tracking Platform — Logistics Domain
 
-📅 Dec 2025 – Mar 2026 · Shiavnski Technologies
+📅 Dec 2025 – Mar 2026 · [Company Name]
 
 - Developed and maintained **15+ REST APIs** supporting shipment tracking, logistics operations, and business-critical workflows.
 - Worked extensively on a monolithic architecture, delivering **8+ core features** while ensuring system stability.
@@ -64,9 +64,9 @@
 
 ---
 
-### 3. HelpDesk Intelligence Engine — Customer Support System
+## 3. HelpDesk Intelligence Engine — Customer Support System
 
-📅 Sep 2024 – Mar 2026 · Shiavnski Technologies
+📅 Sep 2024 – Mar 2026 · [Company Name]
 
 - Developed backend microservices and webhook integrations using Java and Spring Boot to automate customer support workflows.
 - Built AI-powered search and knowledge retrieval modules using Python, pgvector, and Sentence-Transformers.
@@ -104,8 +104,9 @@
 ## Education
 
 **Bachelor of Technology in Computer Science**
-Chameli Devi Group of Institutions
-📅 Dec 2021 – Jun 2024 · Indore, Madhya Pradesh
+[University/College Name]
+📅 Dec 2021 – Jun 2024 · [City, State]
+
 
 
 ---
