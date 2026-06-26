@@ -1,4 +1,4 @@
-Hi, my name is [Your Name], and I have over two years of experience as a Java backend developer. I specialize in designing and developing backend applications and microservices across domains like finance and logistics, primarily using Java and Spring Boot.
+Hi, my name is [Your Name], and I have 2+ years of experience as a Java backend developer. I specialize in designing and developing backend applications and microservices across domains like finance and logistics, primarily using Java and Spring Boot.
 
 My core expertise lies in Java, Spring Boot, and RESTful API development. On the database side, I have worked with both SQL and NoSQL databases like PostgreSQL, Oracle, MySQL, and MongoDB.
 
